@@ -1,4 +1,9 @@
-letter,number
-a,1
-b,2
-c,3
+time,session,room,url
+9:30,Session 1,,
+9:30,The art of programming,S3,http://ictensw.github.io/test.html
+9:30,Making pictures,S4,http://ictensw.github.io/test.html
+9:30,Teaching html,S5,http://ictensw.github.io/test.html
+11:30,Morning tea,,
+12:00,Looking for Alibrandi,S5,http://ictensw.github.io/test.html
+12:00,Pride and Prejudice,S4,http://ictensw.github.io/test.html
+12:00,Twilight,S3,http://ictensw.github.io/test.html
